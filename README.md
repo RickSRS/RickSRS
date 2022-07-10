@@ -1,6 +1,6 @@
 ### Hello! Welcome to my profile GitHub!!
-  🚀 - I'm Full Stack Developer.
-  📚 - I'm learning English language.
+ - 🚀 I'm Full Stack Developer. 
+ - 📚 I'm learning English language.
   
 ##
 <div align="center">
